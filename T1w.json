@@ -1,0 +1,9 @@
+{
+    "EchoTime": 0.00273, 
+    "RepetitionTime": 1.59, 
+    "FlipAngle": 10, 
+    "PATMode": "GRAPPA", 
+    "NumberOfCoils": 12, 
+    "Model": "Magnetom TrioTim", 
+    "Manufacturer": "Siemens"
+}
